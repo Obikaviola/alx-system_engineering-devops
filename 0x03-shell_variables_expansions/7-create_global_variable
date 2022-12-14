@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e BEST="School" "\n" BEST="School"
+echo -e BEST="School""\n""BEST="School"
